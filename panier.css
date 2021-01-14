@@ -1,0 +1,57 @@
+* {
+  margin: 0%;
+  padding: 0%;
+}
+.carousel-inner img {
+  height: 400px;
+}
+main {
+  margin: 5% 5%;
+  border-radius: 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.fa-heart {
+  padding-left: 100px;
+}
+.fa-heart:hover {
+  color: brown;
+}
+.card-text-dark {
+  border-radius: 10%;
+}
+.card-header {
+  font-weight: bold;
+  text-align: center;
+  font-size: 20px;
+}
+.card-tex {
+  font-size: 20px;
+  text-align: center;
+}
+.cardshope {
+  display: flex;
+  flex-direction: row;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 3% 1%;
+  border-radius: 5%;
+}
+.col-md-4 img {
+  width: 250px;
+  height: 200px;
+}
+
+.col-md-8 {
+  margin: 5% 5%;
+}
+i {
+  font-size: 30px;
+}
+.far {
+  padding: 3% 5%;
+}
